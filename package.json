@@ -1,0 +1,20 @@
+{
+    "name": "@netsells/storybook-nuxt-asyncdata",
+    "version": "0.1.0",
+    "main": "./lib/index.js",
+    "license": "MIT",
+    "scripts": {},
+    "devDependencies": {},
+    "dependencies": {},
+    "repository": {
+        "url": "https://github.com/netsells/storybook-nuxt-asyncdata"
+    },
+    "author": {
+        "name": "Sam Turrell",
+        "url": "https://samturrell.co.uk",
+        "email": "sam.turrell@netsells.co.uk"
+    },
+    "files": [
+        "lib/"
+    ]
+}
