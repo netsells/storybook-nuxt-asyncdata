@@ -16,6 +16,7 @@ Simply import the function from the package and wrap your story definition, then
 
 ```js
 import HomePage from './HomePage';
+import mockAsyncData from '@netsells/storybook-nuxt-asyncdata';
 import homepageData from '../../../tests/fixtures/homepage-data';
 import latestArticles from '../../../tests/fixtures/latest-articles';
 
